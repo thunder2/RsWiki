@@ -10,6 +10,10 @@ The plugin owns the whole service:
 - the `p3Wiki` exchange service and its `RsGxsNetService` (sync state in `rswiki.cfg`),
 - the **RsWiki** page in the main window, its unread-count notifier, and the
   group / page / edit / moderator dialogs.
+  
+
+<img width="1286" height="798" alt="image" src="https://github.com/user-attachments/assets/aec0722b-8e68-4fdc-9fc7-8fb0eede4bf5" />
+
 
 ## Features
 
